@@ -23,7 +23,7 @@ I’m passionate about turning data into actionable insights using **Python, SQL
 --- 
 
 #### 📫 Let’s Connect
-- **LinkedIn:** [Soheil NikKhah](www.linkedin.com/in/soheilnikkhah)
+- **LinkedIn:** [Soheil NikKhah](https://www.linkedin.com/in/soheilnikkhah)
 - **Email:** soheil.niki1303@gmail.com
 
 ---
